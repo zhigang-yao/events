@@ -5,7 +5,7 @@ description: This is a page ...
 ---
 
 ## Upcoming Events
- - [The Second Symposium of Geometry and Statistics in China](./ICCM-satellite-24), Shanghai, December 2024.
+ - [The Second Symposium of Geometry and Statistics in China](./iccm-satellite-24), Shanghai, December 2024.
 
 ## Previous Events 
  - [The First Symposium of Geometry and Statistics in China](./bimsa-satellite-23), Beijing, July, 2023.
