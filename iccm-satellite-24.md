@@ -16,7 +16,7 @@ description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, 
 
 ## General Information
  <p style="text-align:justify;">
- The purpose of the conference is to xxx
+ The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the First Symposium of Geometry and Statistics. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2024 in the relevant field is eligible to attend. Participants from under-represented groups are especially encouraged to attend.
  </p>
 
 
