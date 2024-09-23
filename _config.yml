@@ -1,0 +1,17 @@
+title: Template of conference homepages
+description: This is a template of conference homepages
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+site.github.is_project_page: false
+owner_name: Su Jiaji
+owner_url: ../
+last_updated: true
+
+## Local run:
+markdown: kramdown
+kramdown:
+  input: GFM
+
+## Github run:
+# markdown: GFM
