@@ -16,12 +16,12 @@ description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, 
 
 ## General Information
  <p style="text-align:justify;">
- The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the First Symposium of Geometry and Statistics. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2024 in the relevant field is eligible to attend. Participants from under-represented groups are especially encouraged to attend.
+ The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the <a href="https://zhigang-yao.github.io/bimsa-satellite/">First Symposium of Geometry and Statistics</a>. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2024 in the relevant field is eligible to attend. Participants from under-represented groups are especially encouraged to attend.
  </p>
 
 
  <p style="text-align:justify;">
-The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>, sponsored by SIMIS, during January 8 - 12, 2025 This conference is a satellite conference of the 2024 Annual International Congress of Chinese Mathematicians scheduled in Shanghai Beijing during January 3 - 9, 2025.
+The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>, sponsored by SIMIS, during January 8 - 12, 2025. This conference is a satellite conference of the 2024 Annual International Congress of Chinese Mathematicians scheduled in Shanghai Beijing during January 3 - 9, 2025.
  </p>
 
 
