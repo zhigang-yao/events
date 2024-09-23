@@ -21,7 +21,7 @@ description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, 
 
 
  <p style="text-align:justify;">
-The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), sponsored by SIMIS, during January 8 - 12, 2025
+The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>, sponsored by SIMIS, during January 8 - 12, 2025
  </p>
  
  <p style="text-align:justify;">
