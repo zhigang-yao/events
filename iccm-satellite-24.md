@@ -1,8 +1,7 @@
 ---
 layout: default
 title: The Second Symposium of Geometry and Statistics in China
-description: and Interdisciplinary Sciences, <br> Sanya and Shanghai Jannuary 8 - 12, 2025 (tentatively)
-description: The Tsinghua Sanya International Mathematics Forum (TSIMF)
+description: Shanghai and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum (TSIMF) <br> Sanya and Shanghai Jannuary 8 - 12, 2025 (tentatively)
 ---
 <!-- ![tour](./pic/simis-tour-2.jpg)
 ![tour](./pic/tsimf-tour.png) -->
