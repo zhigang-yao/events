@@ -24,6 +24,11 @@ description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, 
 The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> from Jan 8-10, 2025 and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), sponsored by SIMIS.
  </p>
 
+<p style="text-align:justify;">
+This conference is a satellite conference of the 2024 Annual International Congress of Chinese Mathematicians scheduled in Shanghai Beijing during January 3 - 9, 2025.
+ </p>
+
+
 ## Registration
 Register [here](URL-TBA) to attend in-person.
 ## Invited speakers 
