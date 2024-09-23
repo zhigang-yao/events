@@ -21,7 +21,7 @@ description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, 
 
 
  <p style="text-align:justify;">
-The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a>, sponsored by TSIMF and the <a href="https://ymsc.tsinghua.edu.cn/en/">Yau Mathematical Sciences Center at Tsinghua University</a>, during December 11 - 13, 2024.
+The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> from Jan 8-10, 2025 and Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS), sponsored by SIMIS.
  </p>
 
 ## Registration
