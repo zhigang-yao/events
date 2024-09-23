@@ -33,18 +33,14 @@ Register [here](URL-TBA) to attend in-person.
 * More to add
 
 ## Organizing Committee
-* [Zhigang Yao (NUS/Harvard CMSA and Committee Chair)](https://zhigang-yao.github.io/)
-
-## Scientific Advisors: 
-* xxx (xxx)
-* xxx (xxx)
+* [Zhigang Yao (NUS)](https://zhigang-yao.github.io/)
   
 ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
 ## Schedule
 
-<p><strong>Monday, Feb. 27, 2023 (Singapore Time)</strong></p>
+<p><strong>Monday, Jan. 8, 2025 (Singapore Time)</strong></p>
 
 <table width="850">
 <tbody>
