@@ -19,26 +19,33 @@ figure_2_alt: TSIMF
 </table> -->
 
 ## General Information
- <p style="text-align:justify;">
+ <!-- <p style="text-align:justify;">
  The purpose of the conference is to promote the research on the emerging field of interface of statistics and geometry among researchers in China and beyond. This is a continuous effort, following the <a href="https://zhigang-yao.github.io/bimsa-satellite/">First Symposium of Geometry and Statistics</a>. Anyone who has received a Ph.D. or expects to receive a Ph.D. by the end of 2024 in the relevant field is eligible to attend. Participants from under-represented groups are especially encouraged to attend.
- </p>
+ </p> -->
 
 
- <p style="text-align:justify;">
+ <!-- <p style="text-align:justify;">
 The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>, sponsored by SIMIS, during January 8 - 12, 2025. This conference is a satellite conference of the 2024 Annual International Congress of Chinese Mathematicians scheduled in Shanghai Beijing during January 3 - 9, 2025.
- </p>
+ </p> -->
+ 
+<p style="text-align:justify;">
+The conference aims to promote research in the emerging area of the interface between statistics and geometry. This initiative continues the efforts of the <a href="https://zhigang-yao.github.io/bimsa-satellite/">First Symposium of Geometry and Statistics</a> to foster collaboration among researchers in China and internationally. Individuals who have received or are expected to receive a Ph.D. in relevant fields by the end of 2024 are eligible to participate. Participants from underrepresented groups are especially encouraged to attend.
+</p>
 
+<p style="text-align:justify;">
+The event will be held from January 8 to 12, 2025, at both the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and the <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>. It is sponsored by SIMIS and serves as a satellite conference to the 2024 Annual International Congress of Chinese Mathematicians, which will be held in Shanghai and Beijing from January 3 to 9, 2025.
+</p>
 
 ## Registration
 Register [here](URL-TBA) to attend in-person.
 ## Invited speakers 
-### Statistics + Geometry (Sanya, Jan 8-10)
+### Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)
 * xxx (xxx)
 * xxx (xxx)
 * More to add
 
 
-### Data Science (Shanghai, Jan 11-12)
+### Part II: Innovations in Data Science (Shanghai, Jan 11-12)
 * xxx (xxx)
 * xxx (xxx)
 * More to add
