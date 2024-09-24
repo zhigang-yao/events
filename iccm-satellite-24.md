@@ -1,18 +1,22 @@
 ---
-layout: default
+layout: two-figures
 title: The Second Symposium of Geometry and Statistics in China
 description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum <br> Sanya and Shanghai Jannuary 8 - 12, 2025 (tentatively)
+figure_1_dir: ./pic/simis-tour-2.jpg
+figure_1_alt: SIMIS
+figure_2_dir: ./pic/tsimf-tour.png
+figure_2_alt: TSIMF
 ---
 <!-- ![tour](./pic/simis-tour-2.jpg)
 ![tour](./pic/tsimf-tour.png) -->
 
 
-<table>
+<!-- <table style="width:100%">
 <tr>
 <td><img src="./pic/simis-tour-2.jpg" alt="yanqi"></td>
 <td><img src="./pic/tsimf-tour.png" alt="ymsc"></td>
 </tr>
-</table>
+</table> -->
 
 ## General Information
  <p style="text-align:justify;">
@@ -28,6 +32,13 @@ The conference will take place at the <a href="http://www.tsimf.cn/">Tsinghua Sa
 ## Registration
 Register [here](URL-TBA) to attend in-person.
 ## Invited speakers 
+### Statistics + Geometry (Sanya, Jan 8-10)
+* xxx (xxx)
+* xxx (xxx)
+* More to add
+
+
+### Data Science (Shanghai, Jan 11-12)
 * xxx (xxx)
 * xxx (xxx)
 * More to add

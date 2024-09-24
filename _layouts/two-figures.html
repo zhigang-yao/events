@@ -50,7 +50,22 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
-    123
+
+    <!-- <table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+          <td>
+            <img src="{{ page.figure_1_dir }}" alt="{{ page.figure_2_alt }}"  height="300">
+          </td>
+          <td>
+            <img src="{{ page.figure_2_dir }}" alt="{{ page.figure_2_alt }}"  height="300">
+          </td>
+        </tr>
+    </table> -->    
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="{{ page.figure_1_dir }}" alt="{{ page.figure_1_alt }}" style="flex-basis: 45%; max-width: 45%; height: auto;">
+        <img src="{{ page.figure_2_dir }}" alt="{{ page.figure_2_alt }}" style="flex-basis: 45%; max-width: 45%; height: auto;">
+    </div>
+    
 
     <main id="content" class="main-content" role="main">
       {{ content }}
