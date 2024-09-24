@@ -36,13 +36,14 @@ The conference aims to promote research in the emerging area of the interface be
 The event will be held from January 8 to 12, 2025, at both the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and the <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>. It is sponsored by SIMIS and serves as a satellite conference to the 2024 Annual International Congress of Chinese Mathematicians, which will be held in Shanghai and Beijing from January 3 to 9, 2025.
 </p>
 
-## Registration
-Register [here](URL-TBA) to attend in-person.
 ## Invited speakers 
 ### Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)
 * xxx (xxx)
 * xxx (xxx)
 * More to add
+
+| name <br> (affiliation) | Topic |
+| More to add|  | 
 
 
 ### Part II: Innovations in Data Science (Shanghai, Jan 11-12)
@@ -56,9 +57,16 @@ Register [here](URL-TBA) to attend in-person.
 ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
 
-## Schedule
+## Activities
+[Please click here for schedule and abstracts.](URl-TBA)
 
-<p><strong>Monday, Jan. 8, 2025 (Singapore Time)</strong></p>
+
+## Registration
+[Please click here to register for in-person attendance.](URl-TBA)
+<!-- Register [here](URL-TBA) to attend in-person. -->
+<!-- ## Schedule -->
+
+<!-- <p><strong>Monday, Jan. 8, 2025 (Singapore Time)</strong></p>
 
 <table width="850">
 <tbody>
@@ -139,9 +147,9 @@ Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.ya
 </table>
 
 <p>* Virtual Presentation</p>
-<hr />
+<hr /> -->
 
-
+## Venue Address
 
 ## Sponsors
 <!-- ![yanqi](./pic/yanqi_small.png)
