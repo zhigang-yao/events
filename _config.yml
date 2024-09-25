@@ -4,7 +4,7 @@ description: This is a template of conference homepages
 google_analytics:
 theme: jekyll-theme-cayman
 owner_name: Zhigang Yao
-owner_url: ../
+owner_url: https://zhigang-yao.github.io/
 
 last_updated: true
 show_footer: true
