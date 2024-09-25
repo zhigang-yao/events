@@ -37,16 +37,15 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 </p>
 
 ## Invited speakers 
-### Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)
-* xxx (xxx)
-* xxx (xxx)
-* More to add
+**Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)**
 
-| name <br> (affiliation) | Topic |
-| More to add|  | 
+| name1 <br> (affiliation 1) | Topic 1 |
+| name2 <br> (affiliation 2) | Topic 2 |
+
+*More to add*
 
 
-### Part II: Innovations in Data Science (Shanghai, Jan 11-12)
+**Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
 * xxx (xxx)
 * xxx (xxx)
 * More to add

@@ -18,7 +18,20 @@ To use the Template:
 
 ## Local run
 
-Need to setup jekyll first. Then, for preview run: 
+Need to [setup Jekyll](https://jekyllrb.com/docs/) first. 
+
+Then, for preview, run: 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
+```
+
+For locally build:
+```
+bundle exec jekyll build
+```
+The built website is created in *_site/*
+
+To clean up the temp files:
+```
+bundle exec jekyll clean
 ```
