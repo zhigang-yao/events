@@ -1,7 +1,7 @@
 ---
 layout: two-figures
 title: The Second Symposium of Geometry and Statistics in China
-description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum <br> Sanya and Shanghai Jannuary 8 - 12, 2025 (tentatively)
+description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum <br> Sanya and Shanghai Jannuary 8 - 12, 2025
 figure_1_dir: ./pic/simis-tour-2.jpg
 figure_1_alt: SIMIS
 figure_2_dir: ./pic/tsimf-tour.png
@@ -33,7 +33,7 @@ The conference aims to promote research in the emerging area of the interface be
 </p>
 
 <p style="text-align:justify;">
-The event will be held from January 8 to 12, 2025, at both the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and the <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>. It is sponsored by SIMIS and serves as a satellite conference to the 2024 Annual International Congress of Chinese Mathematicians, which will be held in Shanghai and Beijing from January 3 to 9, 2025.
+The event will be held from January 8 to 12, 2025, at both the <a href="http://www.tsimf.cn/">Tsinghua Sanya International Mathematics Forum (TSIMF)</a> and the <a href="https://www.simis.cn/">Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</a>. It is sponsored by SIMIS and serves as a satellite conference to the 2024 International Congress of Chinese Mathematicians, which will be held in Shanghai from January 3 to 9, 2025.
 </p>
 
 ## Invited Speakers 
