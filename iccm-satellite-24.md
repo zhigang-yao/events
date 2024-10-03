@@ -38,20 +38,36 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 
 ## Invited Speakers 
 **Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)**
-
-| name1 <br> (affiliation 1) | Topic 1 |
-| name2 <br> (affiliation 2) | Topic 2 |
+<!-- 
+|Stephan Huckermann <br> (University of Goettingen, Germany)| Topics TBA |
+| Yvo Pokern <br> (University College London, UK) | | -->
+- Stephan Huckermann (University of Goettingen, Germany)
+- Bingjie Li (National University of Singapore, Singapore)
+- Runyu Lin (National University of Singapore, Singapore)
+- Yukun Lu (National University of Singapore, Singapore)
+- Yvo Pokern (University College London, UK)
+- Jiaji Su (National University of Singapore, Singapore)
+- Ye Zhang (Shenzhen MSU-BIT University, China)
 
 *More to add*
 
 
 **Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
-* xxx (xxx)
-* xxx (xxx)
-* More to add
+- Yifan Cui (Zhejiang University, China)
+- Dongming Huang (National University of Singapore, Singapore)
+- Jian Huang (Hong Kong Polytechnic University, Hong Kong SAR)
+- Stephan Huckemann (University of Goettingen, Germany)
+- Jessica Li (University of California at Los Angeles, USA)
+- Qian Lin (Tsinghua University, China)
+- Yvo Pokern (University College London, UK)
+- Ruibin Xi (Peking University, China)
+- Chunming Zhang (University of Wisconsin-Madison, USA)
+- Ye Zhang (Shenzhen MSU-BIT University, China)
+
+*More to add*
 
 ## Organizing Committee
-* [Zhigang Yao (NUS)](https://zhigang-yao.github.io/)
+* [Zhigang Yao](https://zhigang-yao.github.io/) (National University of Singapore, Singapore)
 
 For inquiries regarding scientific matters, please contact: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
   
