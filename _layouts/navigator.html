@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <!-- inline config -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      macros: {
+      	RR: "{\\bf R}",
+      	bold: ["{\\bf #1}", 1],
+        indep: "{\\perp \\!\\!\\! \\perp}",
+    	}
+    },
+    svg: {
+    fontCache: 'global'
+  	},
+  };
+</script>
+
+<!-- load MathJax -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      .cards-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card {
+  margin: 10px auto; /* Centering the card horizontally */
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+  width: 80%; /* Max width of 80% */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #333;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Slightly enlarge the card on hover */
+  background-color: #e8e8e8; /* Change background color on hover */
+}
+
+.card a:hover {
+  color: #333; /* Keep the color the same on hover */
+  text-decoration: none; /* No underline or any other text decoration on hover */
+}
+
+    </style>
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    </header>
+    
+    <main id="content" class="main-content" role="main">
+        <div class="cards-container">
+            {% for link in page.links %}
+              <div class="card">
+                <a href="{{ link.url }}">
+                  {{ link.name }}
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+    
+        
+
+      <footer class="site-footer">
+        {% if site.show_footer %}
+          <span class="site-footer-owner">This page is maintained by <a href="{{ site.owner_url }}">{{ site.owner_name }}</a>. 
+            {% if site.last_updated %}
+            Last updated: {{'now' | date: '%B %d, %Y'}}.
+            {% endif %}
+          </span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
