@@ -54,6 +54,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 
 **Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
 - Yifan Cui (Zhejiang University, China)
+- Gang Hu (Nankai University)
 - Dongming Huang (National University of Singapore, Singapore)
 - Jian Huang (Hong Kong Polytechnic University, Hong Kong SAR)
 - Stephan Huckemann (University of Goettingen, Germany)
@@ -167,11 +168,20 @@ Please [click here](URl-TBA) to register for in-person attendance.
 <hr /> -->
 
 ## Venue Address
+***Tsinghua Sanya International Mathematics Forum:***\\
+Find direction in [Baidu Maps](https://j.map.baidu.com/e0/WeO)\\
+No.100, Tsinghua Road, Tianya  District, Sanya, Hainan, China\\
+清华三亚国际数学论坛, 海南省三亚市天涯区清华路100号
+
+***Shanghai Institute for Mathematics and Interdisciplinary Sciences:*** \\
+Find direction in [Baidu Maps](https://map.baidu.com/?shareurl=1&poiShareUid=975c5d334fec5df33a13fdb0)\\
+Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China\\
+上海数学与交叉学科研究院, 上海市杨浦区淞沪路657号创智国际广场A座
+
+
+
 
 ## Sponsors
-<!-- ![yanqi](./pic/yanqi_small.png)
-![ymsc](./pic/yanqi_small.png) -->
-
 <table>
 <tr>
 <td width="50%"><img src="./pic/simis-logo-download.png" alt="simis_logo"></td>
