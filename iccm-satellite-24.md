@@ -169,12 +169,12 @@ Please [click here](URl-TBA) to register for in-person attendance.
 
 ## Venue Address
 ***Tsinghua Sanya International Mathematics Forum:***\\
-Find direction in [Baidu Maps](https://j.map.baidu.com/e0/WeO)\\
+Find in [Baidu Maps](https://j.map.baidu.com/e0/WeO)\\
 No.100, Tsinghua Road, Tianya  District, Sanya, Hainan, China\\
 清华三亚国际数学论坛, 海南省三亚市天涯区清华路100号
 
 ***Shanghai Institute for Mathematics and Interdisciplinary Sciences:*** \\
-Find direction in [Baidu Maps](https://map.baidu.com/?shareurl=1&poiShareUid=975c5d334fec5df33a13fdb0)\\
+Find in [Baidu Maps](https://map.baidu.com/?shareurl=1&poiShareUid=975c5d334fec5df33a13fdb0)\\
 Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China\\
 上海数学与交叉学科研究院, 上海市杨浦区淞沪路657号创智国际广场A座
 
