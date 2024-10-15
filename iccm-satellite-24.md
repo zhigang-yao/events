@@ -58,6 +58,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Dongming Huang (National University of Singapore, Singapore)
 - Jian Huang (Hong Kong Polytechnic University, Hong Kong SAR)
 - Stephan Huckemann (University of Goettingen, Germany)
+- Yuqi Gu (Columbia University, USA)
 - Jessica Li (University of California at Los Angeles, USA)
 - Qian Lin (Tsinghua University, China)
 - Yvo Pokern (University College London, UK)
