@@ -65,6 +65,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Ruibin Xi (Peking University, China)
 - Chunming Zhang (University of Wisconsin-Madison, USA)
 - Ye Zhang (Shenzhen MSU-BIT University, China)
+- Zhengwu Zhang (University of North Carolina at Chapel Hill, USA)
 
 *More to add*
 
