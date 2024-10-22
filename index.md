@@ -4,7 +4,8 @@ title: Confluence of Geometry, Statistics, and Innovation
 description: Bridging disciplines through informative sessions on data science, geometry, and statistics.
 ---
 
-## Upcoming Events   
+<!-- ## Upcoming Events    -->
+## Ongoing Events  
  - [Interactions of Statistics and Geometry (ISAG II)](https://ims.nus.edu.sg/events/isagii/), Singapore, October 14-25, 2024 (Co-organizer)
 
 ## Future Engagements
