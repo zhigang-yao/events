@@ -85,7 +85,7 @@ Please [click here](URl-TBA) for schedule and abstracts.
 
 
 ## Registration
-Please [click here](URl-TBA) to register for in-person attendance.
+Please [click here](https://forms.office.com/r/5FVkEs8wgy) to register for in-person attendance.
 <!-- Register [here](URL-TBA) to attend in-person. -->
 <!-- ## Schedule -->
 
