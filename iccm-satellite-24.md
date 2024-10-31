@@ -47,6 +47,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Yukun Lu (National University of Singapore, Singapore)
 - Ezra Miller (Duke University, USA, *pending*)
 - Yvo Pokern (University College London, UK)
+- Wanli Qiao (George Mason University, USA)
 - Jiaji Su (National University of Singapore, Singapore)
 - Zhigang Yao (National University of Singapore, Singapore)
 - Ye Zhang (Shenzhen MSU-BIT University, China)
