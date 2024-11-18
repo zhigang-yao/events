@@ -1,7 +1,7 @@
 ---
 layout: two-figures
 title: The Second Symposium of Geometry and Statistics in China
-description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum <br> Sanya and Shanghai Jannuary 8 - 12, 2025
+description: Shanghai Institute for Mathematics and Interdisciplinary Sciences, The Tsinghua Sanya International Mathematics Forum <br> Sanya and Shanghai January 8 - 12, 2025
 figure_1_dir: ./pic/simis-tour-2.jpg
 figure_1_alt: SIMIS
 figure_2_dir: ./pic/tsimf-tour.png
