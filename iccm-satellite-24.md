@@ -39,43 +39,44 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 ## Invited Speakers 
 **Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)**
 <!-- 
-|Stephan Huckermann <br> (University of Goettingen, Germany)| Topics TBA |
-| Yvo Pokern <br> (University College London, UK) | | -->
-- Stephan Huckermann (University of Goettingen, Germany)
-- Bingjie Li (National University of Singapore, Singapore)
-- Runyu Lin (National University of Singapore, Singapore)
-- Yukun Lu (National University of Singapore, Singapore)
-- Ezra Miller (Duke University, USA, *pending*)
-- Yvo Pokern (University College London, UK)
-- Wanli Qiao (George Mason University, USA)
-- Jiaji Su (National University of Singapore, Singapore)
-- Yunan Wu (Tsinghua University, China)
-- Zhigang Yao (National University of Singapore, Singapore)
-<!-- - Ye Zhang (Shenzhen MSU-BIT University, China) -->
+|Stephan Huckermann <br> (University of Goettingen,)| Topics TBA |
+| Yvo Pokern <br> (University College London) | | -->
+- Carlo Vittorio Cannistraci (Tsinghua University)
+- Stephan Huckermann (University of Goettingen)
+- Bingjie Li (National University of Singapore)
+- Runyu Lin (National University of Singapore)
+- Yukun Lu (National University of Singapore)
+- Ezra Miller (Duke University, *pending*)
+- Yvo Pokern (University College London)
+- Wanli Qiao (George Mason University)
+- Jiaji Su (National University of Singapore)
+- Yunan Wu (Tsinghua University)
+- Zhigang Yao (National University of Singapore)
+<!-- - Ye Zhang (Shenzhen MSU-BIT University) -->
 
 *More to add*
 
 
 **Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
-- Yifan Cui (Zhejiang University, China)
+- Yifan Cui (Zhejiang University)
 - Gang Hu (Nankai University)
-- Dongming Huang (National University of Singapore, Singapore)
-- Jian Huang (Hong Kong Polytechnic University, Hong Kong SAR)
-- Stephan Huckemann (University of Goettingen, Germany)
-<!-- - Yuqi Gu (Columbia University, USA) -->
-- Jessica Li (University of California at Los Angeles, USA)
-- Qian Lin (Tsinghua University, China)
-- Ezra Miller (Duke University, USA, *pending*)
-- Yvo Pokern (University College London, UK)
-- Ruibin Xi (Peking University, China)
-- Chunming Zhang (University of Wisconsin-Madison, USA)
-- Ye Zhang (Shenzhen MSU-BIT University, China)
-- Zhengwu Zhang (University of North Carolina at Chapel Hill, USA)
+- Dongming Huang (National University of Singapore)
+- Jian Huang (Hong Kong Polytechnic University)
+- Stephan Huckemann (University of Goettingen)
+<!-- - Yuqi Gu (Columbia University) -->
+- Jessica Li (University of California at Los Angeles)
+- Qian Lin (Tsinghua University)
+- Ezra Miller (Duke University, *pending*)
+- Yvo Pokern (University College London)
+- Ruibin Xi (Peking University)
+- Chunming Zhang (University of Wisconsin-Madison)
+- Ye Zhang (Shenzhen MSU-BIT University)
+- Zhengwu Zhang (University of North Carolina at Chapel Hill)
 
 *More to add*
 
 ## Organizing Committee
-* [Zhigang Yao](https://zhigang-yao.github.io/) (National University of Singapore, Singapore)
+* [Zhigang Yao](https://zhigang-yao.github.io/) (National University of Singapore)
 
 For inquiries regarding scientific matters, please contact: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a>
   
@@ -177,12 +178,12 @@ Please [click here](https://forms.office.com/r/5FVkEs8wgy) to register for in-pe
 ## Venue Address
 ***Tsinghua Sanya International Mathematics Forum:***\\
 Find in [Baidu Maps](https://j.map.baidu.com/e0/WeO)\\
-No.100, Tsinghua Road, Tianya  District, Sanya, Hainan, China\\
+No.100, Tsinghua Road, Tianya  District, Sanya, Hainan\\
 清华三亚国际数学论坛, 海南省三亚市天涯区清华路100号
 
 ***Shanghai Institute for Mathematics and Interdisciplinary Sciences:*** \\
 Find in [Baidu Maps](https://map.baidu.com/?shareurl=1&poiShareUid=975c5d334fec5df33a13fdb0)\\
-Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China\\
+Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai\\
 上海数学与交叉学科研究院, 上海市杨浦区淞沪路657号创智国际广场A座
 
 
