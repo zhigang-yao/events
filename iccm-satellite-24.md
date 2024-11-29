@@ -46,10 +46,11 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Bingjie Li (National University of Singapore)
 - Runyu Lin (National University of Singapore)
 - Yukun Lu (National University of Singapore)
-- Ezra Miller (Duke University, *pending*)
+<!-- - Ezra Miller (Duke University, *pending*) -->
 - Yvo Pokern (University College London)
 - Wanli Qiao (George Mason University)
 - Jiaji Su (National University of Singapore)
+- Wilderich Tuschmann (Karlsruher Institut für Technologie)
 - Yunan Wu (Tsinghua University)
 - Zhigang Yao (National University of Singapore)
 <!-- - Ye Zhang (Shenzhen MSU-BIT University) -->
@@ -66,8 +67,9 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 <!-- - Yuqi Gu (Columbia University) -->
 - Jessica Li (University of California at Los Angeles)
 - Qian Lin (Tsinghua University)
-- Ezra Miller (Duke University, *pending*)
+<!-- - Ezra Miller (Duke University, *pending*) -->
 - Yvo Pokern (University College London)
+- Wilderich Tuschmann (Karlsruher Institut für Technologie)
 - Ruibin Xi (Peking University)
 - Chunming Zhang (University of Wisconsin-Madison)
 - Ye Zhang (Shenzhen MSU-BIT University)
