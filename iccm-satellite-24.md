@@ -45,7 +45,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Michel F. C. Haddad (Queen Mary University of London) 
 - Stephan Huckermann (University of Goettingen)
 - Stephan Klaus (Mathematisches Forschungsinstitut Oberwolfach)
-- Bingjie Li (National University of Singapore)
+<!-- - Bingjie Li (National University of Singapore) -->
 - Runyu Lin (National University of Singapore)
 - Yukun Lu (National University of Singapore)
 <!-- - Ezra Miller (Duke University, *pending*) -->
