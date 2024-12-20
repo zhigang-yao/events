@@ -43,7 +43,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 | Yvo Pokern <br> (University College London) | | -->
 - Carlo Vittorio Cannistraci (Tsinghua University)
 - Michel F. C. Haddad (Queen Mary University of London) 
-- Stephan Huckermann (University of Goettingen)
+- Stephan Huckemann (University of Goettingen)
 - Stephan Klaus (Mathematisches Forschungsinstitut Oberwolfach)
 <!-- - Bingjie Li (National University of Singapore) -->
 - Runyu Lin (National University of Singapore)
