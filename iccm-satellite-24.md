@@ -37,10 +37,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 </p>
 
 ## Invited Speakers 
-**Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)**
-<!-- 
-|Stephan Huckermann <br> (University of Goettingen,)| Topics TBA |
-| Yvo Pokern <br> (University College London) | | -->
+**Part I: Symposium of Geometry & Statistics (Sanya, Jan 8-10)** [[Schedule]](./attachements/Schedule-Sanya.pdf)
 - Carlo Vittorio Cannistraci (Tsinghua University)
 - Michel F. C. Haddad (Queen Mary University of London) 
 - Stephan Huckemann (University of Goettingen)
@@ -57,8 +54,6 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Zhigang Yao (National University of Singapore)
 - Chunming Zhang (University of Wisconsin-Madison)
 <!-- - Ye Zhang (Shenzhen MSU-BIT University) -->
-
-*More to add*
 
 
 **Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
