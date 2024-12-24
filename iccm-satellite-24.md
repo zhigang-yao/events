@@ -83,8 +83,8 @@ For inquiries regarding scientific matters, please contact: <a href="mailto:zhig
 <!-- ## Contact Information
 Scientific Aspects Enquiries: <a href="mailto:zhigang.yao@nus.edu.sg">zhigang.yao(AT)nus.edu.sg</a> -->
 
-## Activities
-Please [click here](URl-TBA) for schedule and abstracts.
+<!-- ## Activities
+Please [click here](URl-TBA) for schedule and abstracts. -->
 
 
 ## Registration
