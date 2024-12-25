@@ -73,7 +73,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 - Ye Zhang (Shenzhen MSU-BIT University)
 - Zhengwu Zhang (University of North Carolina at Chapel Hill)
 
-*More to add*
+<!-- *More to add* -->
 
 ## Organizing Committee
 * [Zhigang Yao](https://zhigang-yao.github.io/) (National University of Singapore)
