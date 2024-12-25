@@ -56,7 +56,7 @@ The event will be held from January 8 to 12, 2025, at both the <a href="http://w
 <!-- - Ye Zhang (Shenzhen MSU-BIT University) -->
 
 
-**Part II: Innovations in Data Science (Shanghai, Jan 11-12)**
+**Part II: Innovations in Data Science (Shanghai, Jan 11-12)** [[Schedule]](./attachements/Schedule-Shanghai.pdf)
 - Yifan Cui (Zhejiang University)
 - Gang Hu (Nankai University)
 - Dongming Huang (National University of Singapore)
