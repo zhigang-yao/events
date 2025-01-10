@@ -7,7 +7,7 @@ description: Bridging disciplines through informative sessions on data science, 
 <!-- ## Upcoming Events    -->
 <!-- ## Ongoing Events   -->
 
-## Upcoming Events   
+## Ongoing Events   
  - [The Second Symposium of Geometry and Statistics in China](./iccm-satellite-24), *Organizer* 
     - Shanghai Institute for Mathematics and Interdisciplinary Sciences<br> The Tsinghua Sanya International Mathematics Forum
     - Sanya and Shanghai, China
