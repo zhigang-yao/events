@@ -9,18 +9,18 @@ description: Bridging disciplines through informative sessions on data science, 
 
 <!-- ## Ongoing Events    -->
 ## Future Engagements
- - [The Second Harvard Conference on Geometry and Statistics](URl-TBA), *Organizer* 
+ - [The Second Harvard Conference on Geometry and Statistics](https://cmsa.fas.harvard.edu/event/geostat_2025/), *Organizer* 
     - Center of Mathematical Sciences and Applications
     - Harvard University, Cambridge, MA
-    - Scheduled in 2025
+    - November 17-19, 2025
   
  - [Dual Trimester Program on Geometric Statistics: Theory, Application, and Computation](https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-3-dtp-2026), *Co-organizer*
     - Hausdorff Research Institute for Mathematics, Bonn, Germany
-    - Scheduled in 2026 (Co-organizer)
+    - Scheduled in 2026 
   
  - [Interactions of Statistics and Geometry (ISAG III)](URl-TBA), *Co-organizer*
     - Hausdorff Research Institute for Mathematics, Bonn, Germany
-    - Scheduled in 2026 (Co-organizer)
+    - Scheduled in 2026 
 
 ## Archived Events
  - [Meeting the Statistical Challenges in High Dimensional Data and Complex Networks](https://imsarchives.nus.edu.sg/oldwww2/events/2018/wstat/index.html), *Co-organizer*
