@@ -13,6 +13,14 @@ description: Bridging disciplines through informative sessions on data science, 
     - Center of Mathematical Sciences and Applications
     - Harvard University, Cambridge, MA
     - Scheduled in 2025
+  
+ - [Dual Trimester Program on Geometric Statistics: Theory, Application, and Computation](https://www.mathematics.uni-bonn.de/him/programs/future/him-trimester-program-3-dtp-2026), *Co-organizer*
+    - Hausdorff Research Institute for Mathematics, Bonn, Germany
+    - Scheduled in 2026 (Co-organizer)
+  
+ - [Interactions of Statistics and Geometry (ISAG III)](URl-TBA), *Co-organizer*
+    - Hausdorff Research Institute for Mathematics, Bonn, Germany
+    - Scheduled in 2026 (Co-organizer)
 
 ## Archived Events
  - [Meeting the Statistical Challenges in High Dimensional Data and Complex Networks](https://imsarchives.nus.edu.sg/oldwww2/events/2018/wstat/index.html), *Co-organizer*
@@ -42,6 +50,11 @@ description: Bridging disciplines through informative sessions on data science, 
  - [Interactions of Statistics and Geometry (ISAG II)](https://ims.nus.edu.sg/events/isagii/),  *Co-organizer*
     - IMS, NUS, Singapore
     - October 14-25, 2024
+
+ - [Workshop on Manifold Fitting Applications in Interdisciplinary Sciences](https://www.simis.cn/%e6%b5%81%e5%bd%a2%e6%8b%9f%e5%90%88%e5%9c%a8%e4%ba%a4%e5%8f%89%e5%ad%a6%e7%a7%91%e4%b8%ad%e7%9a%84%e5%ba%94%e7%94%a8%e7%a0%94%e8%ae%a8%e4%bc%9a/), *Organizer* 
+    - Shanghai Institute for Mathematics and Interdisciplinary Sciences
+    - Shanghai, China
+    - December 8, 2024
 
  - [The Second Symposium of Geometry and Statistics in China](./iccm-satellite-24), *Organizer* 
     - Shanghai Institute for Mathematics and Interdisciplinary Sciences<br> The Tsinghua Sanya International Mathematics Forum
